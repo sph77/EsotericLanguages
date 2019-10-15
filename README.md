@@ -9,6 +9,10 @@ And here: https://esolangs.org/wiki/Main_Page
 Thanks bls96 for the challenge
 https://www.cs.drexel.edu/~bls96/forth.pdf
 
+Useful website for running Esoteric Langs: https://tio.run
+
 I'd do hello world or Fibonacci, but most of these languages already have implementations, so theres not much of a point in solving those.
 
 This gives opportunity to practice in unknown syntaxes, improve ability to pick up new languages, and add plenty of pointless bulletpoints to your resume.
+
+For new langs, make a directory with the lang name, put a program named main.(ext) there. (ex: "Shakespeare Programming Language/main.spl")
