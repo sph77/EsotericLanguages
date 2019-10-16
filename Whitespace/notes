@@ -1,0 +1,69 @@
+Push 0 onto the stack
+Push 100 onto the stack
+Store (0, Digit iterable)
+Set label for Loop
+Push 0 onto the stack
+Retrieve (0)
+Push 100 onto the stack
+Divide the top two items on the stack # Operating on 100s digit
+Duplicate the top item on the stack
+Duplicate the top item on the stack
+Multiply the top two items on the stack
+Multiply the top two items on the stack # 100s digit cubed
+Push 1 onto the stack
+Swap the top two items on the stack
+Store (1, Sum of cubes)
+Push 0 onto the stack
+Retrieve (0)
+Push 100 onto the stack
+Modulo the top two items on the stack
+Push 10 onto the stack
+Divide the top two items on the stack # Operating on 10s digit
+Duplicate the top item on the stack
+Duplicate the top item on the stack
+Multiply the top two items on the stack
+Multiply the top two items on the stack # 10s digit cubed
+Push 1 onto the stack
+Retrieve (1)
+Add the top two items on the stack
+Push 1 onto the stack
+Swap the top two items on the stack
+Store (1, Sum of cubes)
+Push 0 onto the stack
+Retrieve(0)
+Push 10 onto the stack
+Modulo the top two items on the stack # Operating on 1s digit
+Duplicate the top item on the stack
+Duplicate the top item on the stack
+Multiply the top two items on the stack
+Multiply the top two items on the stack # 1s digit cubed
+Push 1 onto the stack
+Retrieve (1)
+Add the top two items on the stack
+Push 0 onto the stack
+Retrieve (0)
+Subtract the top two items on the stack
+Jump to Print if the top of the stack is zero
+Jump to Next
+Set Label for Print
+Push 0 onto the stack
+Retrieve (0)
+Print number at top of the stack
+Push 10 onto the stack
+Print character at top of stack
+Set Label for Next
+Push 0 onto the stack
+Retrieve (0)
+Push 1 onto the stack
+Add the top two items on the stack
+Push 0 onto the stack
+Swap the top two items on the stack
+Store (0, Digit iterable)
+Push 0 onto the stack
+Retrieve (0)
+Push 1000 onto the stack
+Subtract the top two items on the stack
+Jump to End if the top of the stack is zero
+Jump to Loop
+Set Label for End
+Finish
